@@ -1,0 +1,1 @@
+http://localhost:5000/category/beds?page=1&limmit=3
